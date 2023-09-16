@@ -26,7 +26,7 @@
   "scripts": {
     "start": "sh start.sh",
     "test": "node iniciar.js",
-    "python": "sudo apt-get install ffmpeg -y"
+    "python": "git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg"
   },
   "repository": {
     "type": "git",
