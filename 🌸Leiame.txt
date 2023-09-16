@@ -1,0 +1,46 @@
+[🌸] ME CHAMO SAORY NESSE VERSÃO V5 VIM TRAZER UM JEITO MAIS PRÁTICO[🌸]
+
+
+
+
+AQUI ESTÃO OS COMANDOS DE INSTALAÇÃO CASO TENHA DÚVIDAS 
+
+
+_1 COMANDO :
+
+termux-change-repo 
+
+Confirma, marca a terceira caixinha e confirma e prossegue > 
+
+-_2 COMANDO :
+
+apt-get upgrade
+
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+-_3 COMANDO :
+
+apt-get update
+
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+-_4 Comando :
+
+pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install git -y
+
+-_5 COMANDO :
+
+termux-setup-storage
+
+
+E permite.
+
+
+
+cd /sdcard/download/Saory-Bot_Ofc
+
+gerar o qr code
+
+sh start.sh
+
+
