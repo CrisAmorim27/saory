@@ -25,7 +25,8 @@
   "devDependencies": {},
   "scripts": {
     "start": "sh start.sh",
-    "test": "node iniciar.js"
+    "test": "node iniciar.js",
+    "dev": "apt install ffmpeg -y && npm install && node iniciar.js"
   },
   "repository": {
     "type": "git",
