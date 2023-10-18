@@ -23,7 +23,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 [✥]❃ ${prefix}Alugar
 [✥]❃ ${prefix}Bot
 [✥]❃ ${prefix}Perfil
-[✥]❃ ${prefix}Infobot
 [✥]❃ ${prefix}Ping
 [✥]❃ ${prefix}Avalie "Quão Bom"
 [✥]❃ ${prefix}Bug "Questione"
